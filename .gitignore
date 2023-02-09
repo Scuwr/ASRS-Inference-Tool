@@ -1,6 +1,9 @@
 
 /redis-*
 dump*.rdb
+package-lock.json
+inference/
+inference/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
